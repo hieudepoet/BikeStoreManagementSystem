@@ -1,7 +1,5 @@
 package Validator;
 
-import java.util.List;
-
 import DAOBrand.BrandDAOImpl;
 import DAOCategory.CategoryDAOImpl;
 import DAOProduct.ProductDAOImpl;

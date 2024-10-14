@@ -220,12 +220,16 @@ public class ProductDAOImpl extends ArrayList<Product> implements ProductDAO{
             System.out.println("Have no any Product");
         }
         
-        List<Product> result = new ArrayList<>();
-        for (Product product : this) {
-            if (product.getName().toLowerCase().contains(name.toLowerCase()))
-                result.add(product);
-        }
+        // List<Product> result = new ArrayList<>();
+        // for (Product product : this) {
+        //     if (product.getName().toLowerCase().contains(name.toLowerCase()))
+        //         result.add(product);
+        // }
         
+        List<Product> result = this.stream()
+                        .filter(product -> product.getName().equalsIgnoreCase(name))
+                        .collect(Collectors.toList());
+
         Collections.sort(result, new Comparator<Product>() {                                          
             public int compare(Product p1, Product p2) {
                 //Student s1 = (Student) o1;
