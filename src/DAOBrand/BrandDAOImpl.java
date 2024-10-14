@@ -1,6 +1,5 @@
 package DAOBrand;
 
-import Validator.Validator;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -8,6 +7,7 @@ import java.util.Scanner;
 
 import model.Brand;
 import util.BrandFileUtil;
+import validator.Validator;
 
 public class BrandDAOImpl extends HashMap<String, String> implements BrandDAO{
     private BrandFileUtil bfu = new BrandFileUtil();

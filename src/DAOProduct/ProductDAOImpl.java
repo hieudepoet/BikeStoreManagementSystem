@@ -7,13 +7,14 @@ import java.util.stream.Collectors;
 
 import DAOBrand.BrandDAOImpl;
 import DAOCategory.CategoryDAOImpl;
-import Validator.Validator;
+
 import java.util.Collections;
 import java.util.Comparator;
 import model.Brand;
 import model.Category;
 import model.Product;
 import util.ProductFileUtil;
+import validator.Validator;
 
 public class ProductDAOImpl extends ArrayList<Product> implements ProductDAO{
     Scanner sc = new Scanner(System.in);
