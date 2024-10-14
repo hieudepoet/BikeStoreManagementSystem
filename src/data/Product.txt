@@ -1,0 +1,7 @@
+3, c, Giant, Hybrid Bike, 2000, 34123.0, old
+4, aa, Giant, Hybrid Bike, 2024, 100.0, new
+7, aaa, Giant, Hybrid Bike, 2023, 1352.245, new
+6, e, Giant, Hybrid Bike, 2010, 34134.134, old
+5, f, BMW, Hybrid Bike, 2022, 233.3, new
+11, new bike, BMW, Hybrid Bike, 2015, 24141.141, old
+1, new bike, Giant, Hybrid Bike, 2023, 234.3, new

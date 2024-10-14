@@ -1,0 +1,4 @@
+B001, Giant, Taiwan
+B002, Trek, USA
+B003, Honda, Vietnam
+B004, BMW, Japan

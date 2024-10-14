@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Code/NetBeansProjects/BikeStoresManagementSystem/src/model/Category.java</file>
+            <file>file:/D:/Code/NetBeansProjects/BikeStoresManagementSystem/src/DAOBrand/BrandDAO.java</file>
+            <file>file:/D:/Code/NetBeansProjects/BikeStoresManagementSystem/src/util/ProductFileUtil.java</file>
+            <file>file:/D:/Code/NetBeansProjects/BikeStoresManagementSystem/src/model/Product.java</file>
+            <file>file:/D:/Code/NetBeansProjects/BikeStoresManagementSystem/src/DAOProduct/ProductDAOImpl.java</file>
+            <file>file:/D:/Code/NetBeansProjects/BikeStoresManagementSystem/src/DAOBrand/BrandDAOImpl.java</file>
+            <file>file:/D:/Code/NetBeansProjects/BikeStoresManagementSystem/src/Validator/Validator.java</file>
+            <file>file:/D:/Code/NetBeansProjects/BikeStoresManagementSystem/src/DAOProduct/ProductDAO.java</file>
+            <file>file:/D:/Code/NetBeansProjects/BikeStoresManagementSystem/src/service/ProductService.java</file>
+            <file>file:/D:/Code/NetBeansProjects/BikeStoresManagementSystem/src/DAOCategory/CategoryDAOImpl.java</file>
+            <file>file:/D:/Code/NetBeansProjects/BikeStoresManagementSystem/src/app/App.java</file>
+            <file>file:/D:/Code/NetBeansProjects/BikeStoresManagementSystem/src/util/BrandFileUtil.java</file>
+            <file>file:/D:/Code/NetBeansProjects/BikeStoresManagementSystem/src/DAO/DAO.java</file>
+            <file>file:/D:/Code/NetBeansProjects/BikeStoresManagementSystem/src/util/FileUtil.java</file>
+        </group>
+    </open-files>
+</project-private>
